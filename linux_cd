@@ -1,0 +1,15 @@
+
+mariomeraz@raspberrypi:~ $ cd  {Change directory}
+
+mariomeraz@raspberrypi:~ $ cd ~  {moves to the home directory}
+
+mariomeraz@raspberrypi:~ $ cd /  {moves to the root directory}
+
+mariomeraz@raspberrypi:~ $ cd ..  {moves back one directory}
+
+
+Example:
+mariomeraz@raspberrypi:~ $ cd /home/pi/Documents
+mariomeraz@raspberrypi:~ $ cd ./Music
+mariomeraz@raspberrypi:~ $ cd ..
+mariomeraz@raspberrypi:~ $ cd ~
